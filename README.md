@@ -1,2 +1,3 @@
 # belajar_git
-Belajar dasar penggunaan git
+Saya belajar dasar penggunaan git
+Saya belajar dari web programming unpas
